@@ -1,0 +1,9 @@
+import random
+random = random.choice(string)
+word1 =  random[0]
+word2 = random[1]
+word3 = random[2]
+word4 = random[3]
+word5 = random[4]
+print(word1,word2,word3,word4,word5)
+print(random)
